@@ -5,3 +5,5 @@
     - Input and Output functions
     - Airthmetical Opeations
     - Use of IF-ELSE Conditions
+## Output
+<img src = "https://raw.githubusercontent.com/saswatsamal/Python-Projects/master/_images/4.png" width="500">
