@@ -4,3 +4,4 @@
 ## Python Functions used:
     - Input and Output functions
     - Airthmetical Opeations
+    - Use of IF-ELSE Conditions
