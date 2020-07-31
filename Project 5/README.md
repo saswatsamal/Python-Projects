@@ -6,3 +6,6 @@
     - Airthmetical Opeations
     - Use of IF-ELSE Conditions
     - Use of FOR Loop.
+    
+## Output
+<img src = "https://raw.githubusercontent.com/saswatsamal/Python-Projects/master/_images/5.png" width="500">

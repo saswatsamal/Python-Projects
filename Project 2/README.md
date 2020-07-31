@@ -4,3 +4,6 @@
 ## Python Functions used:
     - Input and Output functions
     - Airthmetical Opeations
+    
+## Output
+<img src = "https://raw.githubusercontent.com/saswatsamal/Python-Projects/master/_images/2.png" width="500">
