@@ -15,7 +15,7 @@
 - [Project 4](https://github.com/saswatsamal/Python-Projects/tree/master/Project%204): Typing Interview
 - [Project 5](https://github.com/saswatsamal/Python-Projects/tree/master/Project%205): Finding the Hottest Day and the Coldest Day in a Week
 - [Project 6](https://github.com/saswatsamal/Python-Projects/tree/master/Project%206): Entering the weight.
-- [Project 6](https://github.com/saswatsamal/Python-Projects/tree/master/Project%207): Guess Game
+- [Project 7](https://github.com/saswatsamal/Python-Projects/tree/master/Project%207): Guess Game
 
 ----
 # Contribution 
