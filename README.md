@@ -17,7 +17,7 @@
 - [Project 6](https://github.com/saswatsamal/Python-Projects/tree/master/Project%206): Entering the weight.
 - [Project 7](https://github.com/saswatsamal/Python-Projects/tree/master/Project%207): Guess Game
 - [Project 8](https://github.com/saswatsamal/Python-Projects/tree/master/Project%208): List Probelm
-- [Project 9](https://github.com/saswatsamal/Python-Projects/tree/master/Project%209): Guess Game
+- [Project 9](https://github.com/saswatsamal/Python-Projects/tree/master/Project%209): Student and their Marks
 
 ----
 # Contribution 
