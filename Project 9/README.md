@@ -17,4 +17,5 @@
 <img src = "https://raw.githubusercontent.com/saswatsamal/Python-Projects/master/_images/9a.png" width="500">
 
 **Reading the entries of the students.**
+
 <img src = "https://raw.githubusercontent.com/saswatsamal/Python-Projects/master/_images/9b.png" width="500">
