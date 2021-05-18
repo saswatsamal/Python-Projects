@@ -23,9 +23,6 @@
 # Contribution 
   Make sure to read the CODE OF CONDUCT before contributing. [Click Here](https://github.com/saswatsamal/Python-Projects/blob/master/CODE_OF_CONDUCT.md) to read.
 
-## How to contribute?
-- Will update very soon.
-
 ----
 
 # License
